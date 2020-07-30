@@ -6,6 +6,8 @@ namespace metodofabrica
 {
     interface ivehiculo
     {
+
+        //creamos una intefas con sus metodos
       void Encender();
         void Acelerar();
         void Frenar();
